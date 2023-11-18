@@ -2,8 +2,8 @@
 
 ## Overview
 
-`StretchOrganizer` is a MATLAB tool developed for reorganizing data used in the research on the discrimination of mechanical stimuli imposed on stretchable multimodal mechanical sensor via deep learning.
-This tool enables users to process large datasets and prepare them for input into deep learning models.
+`Preprocessing_Stretch` is a MATLAB code developed for reorganizing data used in the research on the discrimination of mechanical stimuli imposed on stretchable multimodal mechanical sensor via deep learning.
+It enables users to process large datasets and prepare them for input into deep learning models.
 
 ## Features
 
