@@ -3,7 +3,8 @@
 ## Overview
 
 `Preprocessing_Stretch` is a MATLAB code developed for reorganizing data used in the research on the discrimination of mechanical stimuli imposed on stretchable multimodal mechanical sensor via deep learning.
-It enables users to process large datasets and prepare them for input into deep learning models.
+'automatic_main' will automatically change the raw data to 1-cycle data.
+'manual_main' helps users manually change 1-cycle data not found in 'automatic_main'.
 
 ## Features
 
