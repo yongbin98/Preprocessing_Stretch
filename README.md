@@ -1,4 +1,4 @@
-# StretchOrganizer
+# Preprocessing for Stretch & Pressing Classification
 
 ## Overview
 
